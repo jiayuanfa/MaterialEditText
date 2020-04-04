@@ -1,0 +1,2 @@
+rootProject.name='BitmapOrDrawable'
+include ':app'
